@@ -85,3 +85,40 @@ main {
     margin-bottom: 10px;
 }
 /* Failure style */
+/* My Plan Styles */
+.plan-section{
+    padding: 30px 150px;
+}
+.plan-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.plan-title{
+    text-align: center;
+}
+.goal-description{
+    color: #737272;
+}
+.goals-container{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 50px;
+}
+/* My Plan Styles */
+/* CTA styles */
+.call-to-action{
+    background-image: url('../images/cta-banner.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 80px 0px 80px 80px;
+    border-radius: 8px;
+}
+.cta-title{
+    color: #fff;
+    margin-bottom: 24px;
+}
+/* CTA styles */
