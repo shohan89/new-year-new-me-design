@@ -26,17 +26,23 @@ body {
     cursor: pointer;
 }
 /* Common Styles */
+/* Main section style */
+main{
+    
+}
+/* Main section style */
 /* Hero styles */
 .hero-container {
     background-image: url('../images/banner/banner3.png');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     /* text-align: right; */
     position: relative;
     padding: 200px 50px;
     height: 20rem;
+    margin-bottom: 100px;
 }
 .hero-content {
   max-width: 500px;
@@ -53,5 +59,14 @@ body {
   margin-bottom: 24px;
   color: #fff;
 }
-
 /* Hero styles */
+/* Failure style */
+.failure-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* Failure style */
