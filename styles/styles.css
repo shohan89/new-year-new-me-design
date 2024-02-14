@@ -1,0 +1,57 @@
+/* Common Styles */
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+}
+.description {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  .description {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #fff;
+}
+.btn-primary{
+    padding: 20px 15px;
+    border: none;
+    border-radius: 5px;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+/* Common Styles */
+/* Hero styles */
+.hero-container {
+    background-image: url('../images/banner/banner3.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    /* text-align: right; */
+    position: relative;
+    padding: 200px 50px;
+    height: 20rem;
+}
+.hero-content {
+  max-width: 500px;
+  text-align: right;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: 150px;
+  margin-top: 100px;
+}
+.hero-title {
+  font-size: 65px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  color: #fff;
+}
+
+/* Hero styles */
