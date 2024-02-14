@@ -122,3 +122,41 @@ main {
     margin-bottom: 24px;
 }
 /* CTA styles */
+/* Footer style */
+footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    background-color: #151414;
+    margin-top: 100px;
+    padding: 130px 200px;
+  }
+.footer-column{
+    width: 50%;
+}
+.footer-title{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.social-links{
+    margin-top: 20px;
+}
+.email{
+    display: block;
+    padding: 20px 0px 20px 20px;
+    border-radius: 5px;
+    width: 50%;
+    outline: none;
+    font-size: 1.125rem;
+}
+.btn-subscribe{
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 15px;
+    background-color: #005FAC;
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: 700;
+    border-radius: 8px;
+}
+/* Footer style */
